@@ -1,0 +1,82 @@
+#menu{
+    position: absolute;
+    top: 0;
+    width: 12em;
+    left: 0;
+    
+}
+.maincontainer{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+.container{
+    overflow: auto;
+   
+}
+.front{
+    height: 100px;
+}
+.title{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: blue;
+    font-weight: bolder;
+  
+}
+.nav{
+    margin:5px;
+    gap: 10px;
+}
+.navbar{
+
+}
+.navbar ul{
+    list-style: none;
+    margin: 0.5em 0 0 0.66666667em;
+    border: 0;
+    padding: 0.25em 0;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 0.75em;
+    font-weight: bold;
+    
+    
+}
+.intro span{
+    color: gray;
+    font-size: 0.7em;
+    font-weight: normal;
+}
+.r-navbar{
+    overflow: auto;
+    margin-top: 2em;
+    margin-left: 15em;
+   
+}
+.info{
+    margin-top: 5em;
+    margin-left: 12em;
+}
+.card-title{
+    text-align: left;
+    font-weight: bold;
+}
+.card-title u{
+    color: rgb(121, 178, 224);
+}
+
+.card-text{
+    font-size: medium;
+    font-weight: 500;
+}
+.image{
+    margin-top: 5em;
+    margin-left: 25em;
+  float: inline-end;
+}
