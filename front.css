@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.maincontainer{
+    max-width: 80vw;
+    background-color: red;
+    overflow: auto;
+}

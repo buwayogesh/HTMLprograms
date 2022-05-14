@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 80vw;
+    height: 100vh;
+    background-color: red;
+}
+.navbar{
+    max-width: 20vw;
+    margin-top: 0;
+    margin-left: 0;
+    
+
+
+}
